@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FurniMVC201")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59bb35a3804aa2bbdb86f0dedd4fc23e9415e9dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FurniMVC201")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FurniMVC201")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

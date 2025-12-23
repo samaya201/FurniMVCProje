@@ -1,102 +1,154 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\",
+  "WorkspaceRootPath": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\viewmodels\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\viewmodels\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\viewmodels\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\viewmodels\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\viewmodels\\blogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\viewmodels\\blogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Migrations\\20251222110843_updateTpRODUCT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurniMVC201\\Migrations\\20251222110843_updateTpRODUCT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Migrations\\20251222110318_updateProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurniMVC201\\Migrations\\20251222110318_updateProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Migrations\\20251222104319_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurniMVC201\\Migrations\\20251222104319_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\viewmodels\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\viewmodels\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223012430_updateData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurniMVC201\\Migrations\\20251223012430_updateData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223010959_updateCommentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurniMVC201\\Migrations\\20251223010959_updateCommentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223005217_createdCommentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurniMVC201\\Migrations\\20251223005217_createdCommentTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223002904_addListBlogToEmployeeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurniMVC201\\Migrations\\20251223002904_addListBlogToEmployeeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\wwwroot\\assets\\images\\truck.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\wwwroot\\assets\\images\\truck.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\wwwroot\\assets\\images\\support.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\wwwroot\\assets\\images\\support.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251222224504_createdEmployeeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurniMVC201\\Migrations\\20251222224504_createdEmployeeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\student\\desktop\\carrrrr\\furnimvc201\\furnimvc201\\furnimvc201.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\furnimvc201.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\furnimvc201.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\migrations\\20251222110843_updatetproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\migrations\\20251222110843_updatetproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\migrations\\20251222110318_updateproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\migrations\\20251222110318_updateproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|c:\\users\\s\u0259may\u0259\\source\\repos\\furnimvcproje\\furnimvc201\\migrations\\20251222104319_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440F92E-567B-42E0-B729-6219BD92802F}|FurniMVC201\\FurniMVC201.csproj|solutionrelative:furnimvc201\\migrations\\20251222104319_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,28 +158,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "FurniMVC201\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "FurniMVC201\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\Source\\Repos\\FurniMVCProje\\FurniMVC201\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\Source\\Repos\\FurniMVCProje\\FurniMVC201\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "FurniMVC201\\ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T12:21:56.408Z",
+              "WhenOpened": "2025-12-23T00:48:41.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "CommentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\ViewModels\\CommentViewModel.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\ViewModels\\CommentViewModel.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\ViewModels\\CommentViewModel.cs",
+              "RelativeToolTip": "FurniMVC201\\ViewModels\\CommentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T01:35:43.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\ViewModels\\BlogViewModel.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\ViewModels\\BlogViewModel.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\ViewModels\\BlogViewModel.cs",
+              "RelativeToolTip": "FurniMVC201\\ViewModels\\BlogViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T00:04:45.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FurniMVC201\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:25:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "FurniMVC201\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\ContactController.cs",
               "RelativeToolTip": "FurniMVC201\\Controllers\\ContactController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,11 +235,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurniMVC201\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "FurniMVC201\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T12:17:18.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurniMVC201\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FurniMVC201\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:24:09.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurniMVC201\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "FurniMVC201\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAADwv5UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T12:15:47.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurniMVC201\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "FurniMVC201\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAM8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T12:10:49.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\Source\\Repos\\FurniMVCProje\\FurniMVC201\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\Source\\Repos\\FurniMVCProje\\FurniMVC201\\Models\\Employee.cs",
+              "RelativeToolTip": "FurniMVC201\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T22:30:39.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Models\\Comment.cs",
+              "RelativeToolTip": "FurniMVC201\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T00:42:47.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Context\\AppDbcontext.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Context\\AppDbcontext.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Context\\AppDbcontext.cs",
+              "RelativeToolTip": "FurniMVC201\\Context\\AppDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:18:06.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Models\\Blog.cs",
+              "RelativeToolTip": "FurniMVC201\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T23:49:35.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShopViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\ViewModels\\ShopViewModel.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\ViewModels\\ShopViewModel.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\ViewModels\\ShopViewModel.cs",
+              "RelativeToolTip": "FurniMVC201\\ViewModels\\ShopViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:23:32.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "FurniMVC201\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:19:57.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "FurniMVC201\\Controllers\\ServiceController.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\ServiceController.cs",
               "RelativeToolTip": "FurniMVC201\\Controllers\\ServiceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,167 +378,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Service\\Index.cshtml",
-              "RelativeDocumentMoniker": "FurniMVC201\\Views\\Service\\Index.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Service\\Index.cshtml",
-              "RelativeToolTip": "FurniMVC201\\Views\\Service\\Index.cshtml",
-              "ViewState": "AgIAAOgAAAAAAAAAAAAYwPQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T12:17:18.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShopViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\ViewModels\\ShopViewModel.cs",
-              "RelativeDocumentMoniker": "FurniMVC201\\ViewModels\\ShopViewModel.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\ViewModels\\ShopViewModel.cs",
-              "RelativeToolTip": "FurniMVC201\\ViewModels\\ShopViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "FurniMVC201\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T11:23:32.055Z",
+              "WhenOpened": "2025-12-22T12:21:56.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FurniMVC201\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FurniMVC201\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T10:24:51.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "FurniMVC201\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Controllers\\AboutController.cs",
               "RelativeToolTip": "FurniMVC201\\Controllers\\AboutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T12:07:58.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "FurniMVC201\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "FurniMVC201\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T11:19:57.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FurniMVC201\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FurniMVC201\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T10:25:11.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FurniMVC201\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FurniMVC201\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T10:23:22.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "FurniMVC201\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "FurniMVC201\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T11:18:31.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Contact\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "FurniMVC201\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "FurniMVC201\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-22T12:16:25.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "FurniMVC201\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "FurniMVC201\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T12:15:47.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "FurniMVC201\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "FurniMVC201\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAANcAAAAAAAAAAAAYwOcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T12:10:49.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20251222110843_updateTpRODUCT.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Migrations\\20251222110843_updateTpRODUCT.cs",
-              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251222110843_updateTpRODUCT.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Migrations\\20251222110843_updateTpRODUCT.cs",
-              "RelativeToolTip": "FurniMVC201\\Migrations\\20251222110843_updateTpRODUCT.cs",
+              "DocumentIndex": 19,
+              "Title": "20251223012430_updateData.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223012430_updateData.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251223012430_updateData.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223012430_updateData.cs",
+              "RelativeToolTip": "FurniMVC201\\Migrations\\20251223012430_updateData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T11:08:44.093Z",
+              "WhenOpened": "2025-12-23T01:24:30.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
+              "Title": "20251223010959_updateCommentTable.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223010959_updateCommentTable.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251223010959_updateCommentTable.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223010959_updateCommentTable.cs",
+              "RelativeToolTip": "FurniMVC201\\Migrations\\20251223010959_updateCommentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T01:09:59.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "FurniMVC201\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "FurniMVC201\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T11:18:31.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Models\\Product.cs",
               "RelativeDocumentMoniker": "FurniMVC201\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Models\\Product.cs",
               "RelativeToolTip": "FurniMVC201\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -318,89 +469,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FurniMVC201\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FurniMVC201\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwD0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T10:24:09.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20251222110318_updateProductTable.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Migrations\\20251222110318_updateProductTable.cs",
-              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251222110318_updateProductTable.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Migrations\\20251222110318_updateProductTable.cs",
-              "RelativeToolTip": "FurniMVC201\\Migrations\\20251222110318_updateProductTable.cs",
+              "DocumentIndex": 23,
+              "Title": "20251223005217_createdCommentTable.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223005217_createdCommentTable.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251223005217_createdCommentTable.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223005217_createdCommentTable.cs",
+              "RelativeToolTip": "FurniMVC201\\Migrations\\20251223005217_createdCommentTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T11:03:18.733Z",
+              "WhenOpened": "2025-12-23T00:52:17.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20251222104319_init.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Migrations\\20251222104319_init.cs",
-              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251222104319_init.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Migrations\\20251222104319_init.cs",
-              "RelativeToolTip": "FurniMVC201\\Migrations\\20251222104319_init.cs",
+              "DocumentIndex": 24,
+              "Title": "20251223002904_addListBlogToEmployeeTable.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223002904_addListBlogToEmployeeTable.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251223002904_addListBlogToEmployeeTable.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251223002904_addListBlogToEmployeeTable.cs",
+              "RelativeToolTip": "FurniMVC201\\Migrations\\20251223002904_addListBlogToEmployeeTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T10:43:19.773Z",
+              "WhenOpened": "2025-12-23T00:29:04.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\appsettings.json",
-              "RelativeDocumentMoniker": "FurniMVC201\\appsettings.json",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\appsettings.json",
-              "RelativeToolTip": "FurniMVC201\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-22T10:29:46.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FurniMVC201\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FurniMVC201\\Views\\_ViewStart.cshtml",
+              "DocumentIndex": 25,
+              "Title": "truck.svg",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\wwwroot\\assets\\images\\truck.svg",
+              "RelativeDocumentMoniker": "FurniMVC201\\wwwroot\\assets\\images\\truck.svg",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\wwwroot\\assets\\images\\truck.svg",
+              "RelativeToolTip": "FurniMVC201\\wwwroot\\assets\\images\\truck.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T10:24:24.67Z",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-12-23T00:13:35.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AppDbcontext.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Context\\AppDbcontext.cs",
-              "RelativeDocumentMoniker": "FurniMVC201\\Context\\AppDbcontext.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Context\\AppDbcontext.cs",
-              "RelativeToolTip": "FurniMVC201\\Context\\AppDbcontext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T10:18:06.639Z",
+              "DocumentIndex": 26,
+              "Title": "support.svg",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\wwwroot\\assets\\images\\support.svg",
+              "RelativeDocumentMoniker": "FurniMVC201\\wwwroot\\assets\\images\\support.svg",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\wwwroot\\assets\\images\\support.svg",
+              "RelativeToolTip": "FurniMVC201\\wwwroot\\assets\\images\\support.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-12-23T00:13:34.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Program.cs",
               "RelativeDocumentMoniker": "FurniMVC201\\Program.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\Program.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Program.cs",
               "RelativeToolTip": "FurniMVC201\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -409,11 +534,110 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FurniMVC201",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\FurniMVC201.csproj",
+              "DocumentIndex": 28,
+              "Title": "20251222224504_createdEmployeeTable.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251222224504_createdEmployeeTable.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251222224504_createdEmployeeTable.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251222224504_createdEmployeeTable.cs",
+              "RelativeToolTip": "FurniMVC201\\Migrations\\20251222224504_createdEmployeeTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T22:45:04.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FurniMVC201\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FurniMVC201\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:23:22.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FurniMVC201\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FurniMVC201\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:24:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\appsettings.json",
+              "RelativeDocumentMoniker": "FurniMVC201\\appsettings.json",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\appsettings.json",
+              "RelativeToolTip": "FurniMVC201\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T10:29:46.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20251222110843_updateTpRODUCT.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251222110843_updateTpRODUCT.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251222110843_updateTpRODUCT.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251222110843_updateTpRODUCT.cs",
+              "RelativeToolTip": "FurniMVC201\\Migrations\\20251222110843_updateTpRODUCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:08:44.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251222110318_updateProductTable.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251222110318_updateProductTable.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251222110318_updateProductTable.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251222110318_updateProductTable.cs",
+              "RelativeToolTip": "FurniMVC201\\Migrations\\20251222110318_updateProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:03:18.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251222104319_init.cs",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251222104319_init.cs",
+              "RelativeDocumentMoniker": "FurniMVC201\\Migrations\\20251222104319_init.cs",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Migrations\\20251222104319_init.cs",
+              "RelativeToolTip": "FurniMVC201\\Migrations\\20251222104319_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:43:19.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FurniMVC201\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\source\\repos\\FurniMVCProje\\FurniMVC201\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FurniMVC201\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T10:24:24.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FurniMVC201.csproj",
+              "DocumentMoniker": "C:\\Users\\S\u0259may\u0259\\Source\\Repos\\FurniMVCProje\\FurniMVC201\\FurniMVC201.csproj",
               "RelativeDocumentMoniker": "FurniMVC201\\FurniMVC201.csproj",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\FurniMVC201\\FurniMVC201\\FurniMVC201.csproj",
+              "ToolTip": "C:\\Users\\S\u0259may\u0259\\Source\\Repos\\FurniMVCProje\\FurniMVC201\\FurniMVC201.csproj",
               "RelativeToolTip": "FurniMVC201\\FurniMVC201.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
